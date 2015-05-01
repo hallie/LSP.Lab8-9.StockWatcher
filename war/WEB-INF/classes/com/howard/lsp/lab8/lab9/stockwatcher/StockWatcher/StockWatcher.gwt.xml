@@ -1,0 +1,5 @@
+<module>
+	<inherits name="com.google.gwt.user.User"/>
+	<inherits name="com.google.gwt.user.theme.standard.Standard"/>
+	<entry-point class="com.howard.lsp.lab8.lab9.stockwatcher.StockWatcher.client.StockWatcher"/>
+</module>
